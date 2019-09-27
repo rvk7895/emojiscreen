@@ -718,6 +718,14 @@ const emojiItems = [
         year: 2001
     },
     {
+        title: "Pitch Perfect",
+        emojiImgs: "👩‍🧑🎶🏆",
+        genres: ["Comedy","Music", "Romance"],
+        type: "movie",
+        itemLink:"https://www.imdb.com/title/tt1981677/",
+        year:2012
+    },
+    {
         title: "Pet Sematary",
         emojiImgs: "🐶🐱☠️⚰️",
         genres: ["horror", "thriller", "mystery"],
